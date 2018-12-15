@@ -1,2 +1,3 @@
 print(Hello world!)
 print(Дата и время)
+print (еще что-то)
