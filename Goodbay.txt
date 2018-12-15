@@ -1,3 +1,4 @@
 print(goodbay)
 print(goodbay my friend)
 print(goodbay everybody)
+print(goodbay my dear friend)
