@@ -1,1 +1,2 @@
 print(Hello world!)
+print(Дата и время)
